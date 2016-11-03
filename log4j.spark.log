@@ -1,0 +1,15 @@
+16/11/03 00:57:01 INFO SparkContext: Invoking stop() from shutdown hook
+16/11/03 00:57:01 INFO SparkUI: Stopped Spark web UI at http://127.0.0.1:4040
+16/11/03 00:57:01 INFO MapOutputTrackerMasterEndpoint: MapOutputTrackerMasterEndpoint stopped!
+16/11/03 00:57:01 INFO MemoryStore: MemoryStore cleared
+16/11/03 00:57:01 INFO BlockManager: BlockManager stopped
+16/11/03 00:57:01 INFO BlockManagerMaster: BlockManagerMaster stopped
+16/11/03 00:57:01 INFO OutputCommitCoordinator$OutputCommitCoordinatorEndpoint: OutputCommitCoordinator stopped!
+16/11/03 00:57:01 INFO SparkContext: Successfully stopped SparkContext
+16/11/03 00:57:01 INFO ShutdownHookManager: Shutdown hook called
+16/11/03 00:57:01 INFO ShutdownHookManager: Deleting directory /private/var/folders/hs/wx2br3n10m123q32kvh3d02h0000gn/T/spark-621f4899-4557-491c-9c56-88e682fc649d
+16/11/03 00:57:01 INFO RemoteActorRefProvider$RemotingTerminator: Shutting down remote daemon.
+16/11/03 00:57:01 INFO ShutdownHookManager: Deleting directory /private/var/folders/hs/wx2br3n10m123q32kvh3d02h0000gn/T/spark-621f4899-4557-491c-9c56-88e682fc649d/httpd-dcee7ccb-4214-4036-9821-8a9e7a139f2a
+16/11/03 00:57:01 INFO ShutdownHookManager: Deleting directory /private/var/folders/hs/wx2br3n10m123q32kvh3d02h0000gn/T/spark-fbe56b3f-22e3-4b42-83d6-4e0a1dda7ef9
+16/11/03 00:57:01 INFO RemoteActorRefProvider$RemotingTerminator: Remote daemon shut down; proceeding with flushing remote transports.
+16/11/03 00:57:01 INFO RemoteActorRefProvider$RemotingTerminator: Remoting shut down.
